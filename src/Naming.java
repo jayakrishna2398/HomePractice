@@ -6,7 +6,7 @@ public static void main(String[] args) {
 		System.out.println("Invalid name");
 	}
 	else {
-		System.out.println("valid name");
+		System.out.println("jk");
 	}
 }
 }
